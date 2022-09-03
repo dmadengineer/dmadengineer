@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Akbar
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ReactJs
+Hi, there👋 
 
 
 <!---
